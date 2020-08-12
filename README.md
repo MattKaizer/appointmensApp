@@ -1,3 +1,22 @@
+# My Firts ReactJS APP
+
+[link-heroku-preview](https://loving-brahmagupta-0b94e1.netlify.app)
+
+### Simple React App
+
+## Task Description
+
+This is my first practice is with reactJS, working with hooks.
+
+#### Enum Tech used
+
+* HTML5
+* CSS3
+* JS
+* ReacJS
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
