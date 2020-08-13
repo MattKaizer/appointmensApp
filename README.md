@@ -6,7 +6,7 @@
 
 ## Task Description
 
-This is my first practice is with reactJS, working with hooks.
+This is my first practice is with reactJS, working with hooks and LocalStorage.
 
 #### Enum Tech used
 
