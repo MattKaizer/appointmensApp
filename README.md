@@ -1,6 +1,6 @@
 # My Firts ReactJS APP
 
-[link-heroku-preview](https://loving-brahmagupta-0b94e1.netlify.app)
+[link-to-netlify-preview](https://loving-brahmagupta-0b94e1.netlify.app)
 
 ### Simple React App
 
